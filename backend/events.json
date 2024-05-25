@@ -1,0 +1,18 @@
+{
+  "events": [
+    {
+      "title": "A new event",
+      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
+      "date": "2024-05-07",
+      "description": "Some awesome event!",
+      "id": "aa0af866-8f2b-4df1-bee6-fc0e865d5543"
+    }
+  ],
+  "users": [
+    {
+      "email": "test@example.com",
+      "password": "$2a$12$2duBSmQ.6x96oGyimk/pzewNKDxDt1H8oFA35WQ8RDogG0W8omcwy",
+      "id": "b420ac94-00b5-425e-9217-662f30c8ce50"
+    }
+  ]
+}
